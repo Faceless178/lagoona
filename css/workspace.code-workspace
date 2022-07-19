@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../lionic"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "lagoona"
+	}
+}
